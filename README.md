@@ -14,4 +14,4 @@ Python Libraries :
 4. Linear Regression - Multiple.
 
 
-Note : Graphs plotted are not visuallized properly in pdf. It is recommended to view in .ipnyb files
+<i> Note : Graphs plotted are not visuallized properly in pdf. It is recommended to view in .ipnyb files </i>
